@@ -1,0 +1,29 @@
+Hello Claude, 
+
+I am building a modern, clean, and fast single-page website for a local grill and pizza shop to show them a live prototype. I want the site to have smooth scrolling, a clean layout, and beautiful scroll-triggered animations (e.g., using Framer Motion/Tailwind).
+
+Please generate the base code/structure using the following information:
+
+1. Business & Brand
+- Shop Name: Aladdin Grill Esbjerg
+- Current Web Presence (for inspiration/menu): https://www.dagensmenu.dk/aladdin-grill-esbjerg
+- Brand Colors: Please aim for a modern, inviting, and clean aesthetic suitable for a high-quality grill and pizza place (e.g., warm charcoal, golden-orange, or deep red accents).
+- Tagline: Premium Grill, Kebab & Pizza in Esbjerg
+
+2. Location & Contact
+- Address: (Leave unchanged / placeholder for now)
+- Phone: (Leave unchanged / placeholder for now)
+- Business Hours: (Leave unchanged / placeholder for now)
+
+3. Menu Details
+- Please generate a standard, high-converting menu layout featuring classic pizzas, kebabs, and grill specialties based on their current selection. Use clean cards with item names, descriptions, and prices.
+
+4. Design & Interaction
+- Layout: Clean, modern, easy to scroll down.
+- Animations: Hero-section fade-in, on-scroll reveal for the different menu categories, and clean hover effects on buttons.
+
+5. Tech Stack & Deployment
+- Stack: Next.js + Tailwind CSS (Ready for Vercel deployment)
+- Ordering: For now, just a clean UI showing the menu and a "Call to Order" button. 
+
+Please provide the complete code for this initial high-fidelity landing page template so I can deploy it directly to Vercel.
